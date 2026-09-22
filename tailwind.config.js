@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-
+//ako to guys
 // COLOR SYSTEM — derived directly from the official LSPU seal
 // (sampled from LSPU_Seal-HD.png):
 //   navy ring & lettering  -> #0B0E8C  (primary)
